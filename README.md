@@ -40,6 +40,29 @@ I used **Azure AutoML**, **Python**, and **Google Looker Studio** to develop pre
 
 
 ---
+## My Contribution
+
+As part of the Port Authority NY–NJ Bus Terminal Analytics Project, I contributed to the following areas:
+
+### 🔹 Data Cleaning & Preparation
+- Standardized and validated multiple datasets (ridership, terminal operations, delay metrics, etc.).  
+- Handled missing values, inconsistent formats, and merged disparate data sources into a unified analytical dataset.
+
+### 🔹 Exploratory Data Analysis (EDA)
+- Conducted statistical analysis to identify peak congestion periods, route-level performance, and operational bottlenecks.
+- Visualized trends in commuter patterns, weekday/weekend demand, and seasonal variations.
+
+### 🔹 Feature Engineering
+- Created time-based features (hour, weekday, month) to support demand forecasting.
+- Derived KPIs such as *Average Delay per Route*, *Terminal Efficiency Score*, and *Load Factor Ratio*.
+
+### 🔹 Dashboard Development
+- Enhanced and extended Power BI/Tableau dashboards for executive reporting.
+- Designed interactive visualizations for ridership flows, delay analysis, and operational performance.
+
+### 🔹 Business Insights & Recommendations
+- Identified major causes of delays and inefficiencies.
+- Suggested actionable improvements such as optimized bus scheduling and terminal resource allocation.
 
 
 ## Key Insights & Results
